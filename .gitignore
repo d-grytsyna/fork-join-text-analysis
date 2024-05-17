@@ -3,3 +3,4 @@ Thumbs.db
 .idea/
 target/
 src/test
+/src/main/resources/books/
